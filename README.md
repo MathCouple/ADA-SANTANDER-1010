@@ -73,47 +73,29 @@ Projetos:
 
 
 #### Listas:
+
 * Módulo 1 (Lógica de Programação II):
-- Lógica de Estrutura de dados
-- Lógica de Estrutura de controle
-- Lógica de Funções
-- Lógica de Programação Funcional
-- Lógica de Compreensão de Listas, Dicionário, Tuplas, Conjuntos, etc
-- Lógica de Manipulação de Arquivos (csv, txt, json, etc)
-- Lógica de Manipulação de Strings
-- Lógica de Git e Github
-- Lógica de Kwargs e args
-- Lógica de Lógica de algorítmos (básicos e sofiticados)
-- Lógica de Tratativa de erros
+    - Lógica de Estrutura de dados
+    - Lógica de Estrutura de controle
+    - Lógica de Funções
+    - Lógica de Programação Funcional
+    - Lógica de Compreensão de Listas, Dicionário, Tuplas, Conjuntos, etc
+    - Lógica de Manipulação de Arquivos (csv, txt, json, etc)
+    - Lógica de Manipulação de Strings
+    - Lógica de Git e Github
+    - Lógica de Kwargs e args
+    - Lógica de Lógica de algorítmos (básicos e sofiticados)
+    - Lógica de Tratativa de erros
 
 
 - Módulo 2:
     *  
     *
     * 
-- Módulo 3:
-    *  
-    *
-    * 
-- Módulo 4:
-    *  
-    *
-    *
+
 
 #### Projetos:
 * Módulo 1:
-    *  
-    *
-    * 
 - Módulo 2:
-    *  
-    *
-    * 
 - Módulo 3:
-    *  
-    *
-    * 
 - Módulo 4:
-    *  
-    *
-    *
