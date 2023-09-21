@@ -53,7 +53,7 @@ Listas:
 Projetos:
 - [ ] LOGICA_PROGRAMACAO_II: Jogo da Forca em CLI
 - [ ] Projetos OOP: Sistema de Farmácia em OOP + CleanCode (Estoque, Relatórios, Venda de Produtos, Cadastro de Clientes, Cadastro de Farmácias, Cadastro de medicamentos)
-- [x] Projetos TECNICAS_PROGRAMACAO_I: ETL + PCV (PROBLEMA DO CAIXEIRO VIAJANTE)
+- [x] Projetos TECNICAS_PROGRAMACAO_I: ETL + Limpeza de Dados + PCV (PROBLEMA DO CAIXEIRO VIAJANTE)
 ---
 
 ## Conteúdo abordado até o momento, conhecimento em escala (4 a 5)/5 (aplicação em projetos)
