@@ -10,17 +10,17 @@ EN
 
     - Syllabus:
 
-    → Programming Logic II (PY)
+        → Programming Logic II (PY)
 
-    → Object-Oriented Programming (PY)
+        → Object-Oriented Programming (PY)
 
-    → Programming Techniques I (PY)
+        → Programming Techniques I (PY)
 
-    → Data Extraction I
+        → Data Extraction I
 
-    → Analytics Engineering
+        → Analytics Engineering
 
-    → Big Data
+        → Big Data
 PT
     Bootcamp aprofundado em Engenharia de Dados, parceria Santander e Ada. Aproximadamente 324h de conteúdo de ponta. Modelo Síncrono e Assíncrono.
 
@@ -95,7 +95,11 @@ Projetos:
 
 
 #### Projetos:
+
 * Módulo 1:
+
 - Módulo 2:
+
 - Módulo 3:
+
 - Módulo 4:
