@@ -49,7 +49,7 @@ Listas:
 - [x] Arquivo Lista Módulo 0:
 - [] Arquivo Lista Módulo 1:
 - [NA] Arquivo Lista Módulo 2:
-- [] Arquivo Lista Módulo 3:
+- [NA] Arquivo Lista Módulo 3:
 
 
 Projetos:
