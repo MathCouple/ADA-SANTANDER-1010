@@ -46,8 +46,10 @@ PT
 ## Conclusões
 
 Listas:
-- [ ] Arquivo Lista Módulo 0:
-- [ ] Arquivo Lista Módulo 1:
+- [x] Arquivo Lista Módulo 0:
+- [] Arquivo Lista Módulo 1:
+- [NA] Arquivo Lista Módulo 2:
+- [] Arquivo Lista Módulo 3:
 
 
 Projetos:
@@ -56,23 +58,7 @@ Projetos:
 - [x] Projetos TECNICAS_PROGRAMACAO_I: ETL + Limpeza de Dados + PCV (PROBLEMA DO CAIXEIRO VIAJANTE)
 ---
 
-## Conteúdo abordado até o momento, conhecimento em escala (4 a 5)/5 (aplicação em projetos)
----
-
-
-
-#### Overview Conhecimento Efetivo Adquirido:
-
-*
-*
-*
-*
-*
-*
-*
-
-
-#### Listas:
+#### Conhecimento por módulo:
 
 * Módulo 1 (Lógica de Programação II):
     - Lógica de Estrutura de dados
@@ -92,14 +78,3 @@ Projetos:
     *  
     *
     * 
-
-
-#### Projetos:
-
-* Módulo 1:
-
-- Módulo 2:
-
-- Módulo 3:
-
-- Módulo 4:
